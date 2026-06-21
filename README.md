@@ -1,2 +1,8 @@
-# My First Project
-This is my first GitHub project. I am learning how to use GitHub.
+# My First Website
+
+This is my first GitHub project.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
